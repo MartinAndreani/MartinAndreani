@@ -20,7 +20,7 @@
 <div>
   <img width='20%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
 <img width='11.5%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
-<img width='21%' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgruNPSb_iTGjSZz4H4nefTFfLkNxNJ5nvWQ&s' >
+<img width='21%' height='10%' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgruNPSb_iTGjSZz4H4nefTFfLkNxNJ5nvWQ&s' >
 <img width='18%' height='10%' src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'>
 </div>
 
