@@ -82,12 +82,12 @@
 <tr>
 <td>
 <div align=center>
-<img  width="30%" src='https://imgur.com/nwtdcFe.png'>
+<img  width="50%" src='https://imgur.com/nwtdcFe.png'>
 </div>
 </td>
 <td>
 <div align=center>
-<img width="30%" src='https://imgur.com/vPfv3oY.png'>
+<img width="50%" src='https://imgur.com/vPfv3oY.png'>
 
 </div>
 </td>
@@ -95,13 +95,13 @@
 <tr>
 <td>
 <div align=center>
-<img  width="30%" src='https://imgur.com/XrRoqkP.png'>
+<img  width="50%" src='https://imgur.com/XrRoqkP.png'>
 </div>
 
 </td>
 <td>
 <div align=center>
-<img  width="30%" src='https://imgur.com/0feOeV7.png'>
+<img  width="50%" src='https://imgur.com/0feOeV7.png'>
 </div>
 
 </td>
@@ -109,7 +109,7 @@
 <tr>
 <td>
 <div align=center>
-<img  width="30%" src='https://imgur.com/tK5FSRk.png'>
+<img  width="50%" src='https://imgur.com/tK5FSRk.png'>
 </div>
 
 
