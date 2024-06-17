@@ -63,7 +63,7 @@
 <div align='center' >
 <br>
 <h3 align="center">Proyecto Real - Casa Moderna</h3>
-<a href='https://casamoderna.onrender.com/' target='_blank'><img src='https://imgur.com/uY8lwfH'></a>
+<a href='https://casamoderna.onrender.com/' target='_blank'><img src='https://imgur.com/uY8lwfH.png'></a>
 <br>
 </div>
 </td>
