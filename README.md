@@ -17,7 +17,7 @@
 
 <h2>Tecnologias</h2>
 <ul>
-  <li><img src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'></li>
+  <li><img width='30%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'></li>
 </ul>
 
 ## Proyectos
@@ -27,7 +27,7 @@
 <div align='center' >
 <br>
 <h3 align="center">Curso HTML</h3>
-<a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
+<a  href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
 <br>
 </div>
 </td>
