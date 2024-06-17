@@ -3,7 +3,7 @@
 </div>
 <img src='https://imgur.com/yrcWC3C.png'>
 
-![Instagram](https://www.instagram.com/tincho_andreani/)
+![Instagram](https://www.instagram.com/tincho_andreani)
 
 ## Sobre Mi
 
