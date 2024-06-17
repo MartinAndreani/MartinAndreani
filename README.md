@@ -19,16 +19,16 @@
 ## Proyectos
 <table>
   <tr>
-    <td>
+    <td width='50%'>
       <h3>Curso HTML</h3>
     </td>
-    <td>
+    <td width='50%'>
       <h3>Curso JS</h3>
-    </td>
-    <td>
+    </td >
+    <td width='50%'>
       <h3>Curso React</h3>
     </td>
-    <td>
+    <td width='50%'>
       <h3>Proyecto Real - Casa Moderna</h3>
     </td>
   </tr>
