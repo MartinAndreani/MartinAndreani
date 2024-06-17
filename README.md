@@ -19,21 +19,14 @@
 ## Proyectos
 <table>
   <tr>
-    <td width='50%'>
+    <td >
       <br>
       <h3 align="center">Curso HTML</h3>
       <div align='center'>
-        <a href='https://martinandreani.github.io/proyectocoder-html-andreani/'><img scr='https://imgur.com/04jJuRM.jpg' ></a>
+        <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img scr='https://imgur.com/04jJuRM.png' width='400' alt='Curso HTML'></a>
+        <br>
+        
       </div>
-    </td>
-    <td >
-      <h3>Curso JS</h3>
-    </td >
-    <td >
-      <h3>Curso React</h3>
-    </td>
-    <td >
-      <h3>Proyecto Real - Casa Moderna</h3>
-    </td>
+    
   </tr>
 </table>
