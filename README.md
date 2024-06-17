@@ -16,9 +16,9 @@
 - 💻 Front End Devoloper
 
 <h2>Tecnologias</h2>
-<ul>
-  <li><img width='30%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'></li>
-</ul>
+
+<img width='20%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
+
 
 ## Proyectos
 <table>
