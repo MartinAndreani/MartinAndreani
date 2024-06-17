@@ -22,8 +22,8 @@
     <td width='50%'>
       <br>
       <h3 align="center">Curso HTML</h3>
-      <div>
-        <a href='https://martinandreani.github.io/proyectocoder-html-andreani/'><img scr='https://imgur.com/04jJuRM' ></a>
+      <div align='center'>
+        <a href='https://martinandreani.github.io/proyectocoder-html-andreani/'><img scr='https://imgur.com/04jJuRM.png' ></a>
       </div>
     </td>
     <td >
