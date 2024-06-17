@@ -1,4 +1,4 @@
-![image](https://github.com/MartinAndreani/MartinAndreani/assets/138808842/3bc0e6ee-31b5-43bb-bba2-0b661c0a9650)![image](https://github.com/MartinAndreani/MartinAndreani/assets/138808842/de9c527b-4b17-4ed7-9746-c3d54490aa65)<div align='center'>
+<div align='center'>
 <h1 align= 'center' >Hola! Soy <a href="https://imgur.com/tfZ6OuM">Martin Andreani👋</a></h1>
 </div>
 <img src='https://imgur.com/yrcWC3C.png'>
