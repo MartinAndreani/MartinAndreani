@@ -7,6 +7,6 @@
 
 ## Sobre Mi
 
--Estudiante de Ingenieria en Sistemas en UTN FRC
--Front End Devoloper
+- Estudiante de Ingenieria en Sistemas en UTN FRC
+- Front End Devoloper
 -
