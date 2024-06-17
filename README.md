@@ -24,6 +24,12 @@
 <img width='14%'  src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'>
 <img width='18%' src='https://miro.medium.com/v2/resize:fit:1100/1*f2i47G95nVCx71KzM1iXlg.png'>
 <img width='16%' src='https://www.acceseo.com/wp-content/uploads/2017/04/sass_header.jpg'>
+<img width='16%' src='https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.jpg'>
+<img width='16%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png'>
+<img width='16%' src='https://cdn.hashnode.com/res/hashnode/image/upload/v1636780048014/niLN2J80j.png'>
+
+
+  
 </div>
 
 
