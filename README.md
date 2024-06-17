@@ -20,15 +20,19 @@
 <table>
   <tr>
     <td width='50%'>
-      <h3>Curso HTML</h3>
+      <br>
+      <h3 align="center">Curso HTML</h3>
+      <div>
+        <a href=''><img scr='' ></a>
+      </div>
     </td>
-    <td width='50%'>
+    <td >
       <h3>Curso JS</h3>
     </td >
-    <td width='50%'>
+    <td >
       <h3>Curso React</h3>
     </td>
-    <td width='50%'>
+    <td >
       <h3>Proyecto Real - Casa Moderna</h3>
     </td>
   </tr>
