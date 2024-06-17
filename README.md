@@ -45,6 +45,7 @@
 <br>
 <h3 align="center">Proyecto JS Coderhouse</h3>
 <a href='https://proyectocoder-js-andreani.onrender.com/' target='_blank'><img src='https://imgur.com/xBfWe6V.png'></a>
+<br>
 <a href='https://github.com/MartinAndreani/proyectocoder-js-andreani' ><img src='https://img.shields.io/badge/GitHub Repositorio-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
 <br>
 </div>
