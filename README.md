@@ -36,8 +36,9 @@
 <br>
 </div>
 </td>
+</tr>
 
-
+<tr>
 <td width="50%">
 <div align='center' >
 <br>
@@ -56,4 +57,5 @@
 </div>
 </td>
 </tr>
+
 </table>
