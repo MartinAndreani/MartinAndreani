@@ -21,7 +21,7 @@
   <img width='15%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
 <img width='9%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
 <img width='16%'  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgruNPSb_iTGjSZz4H4nefTFfLkNxNJ5nvWQ&s' >
-<img width='13%'  src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'>
+<img width='15%'  src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'>
 <img width='18%' src='https://miro.medium.com/v2/resize:fit:1100/1*f2i47G95nVCx71KzM1iXlg.png'>
 <img width='16%' src='https://www.acceseo.com/wp-content/uploads/2017/04/sass_header.jpg'>
 </div>
