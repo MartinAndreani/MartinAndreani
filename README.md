@@ -3,4 +3,7 @@
 </div>
 <img src='https://imgur.com/yrcWC3C.png'>
 
-## Sobre mi
+
+<div align='center'>
+<h1 align= 'center' >Sobre Mi</h1>
+</div>
