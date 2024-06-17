@@ -81,18 +81,18 @@
 <table >
 <tr>
 <td>
-<img aling=center width="30%" src='https://imgur.com/nwtdcFe.png'>
+<img align=center width="30%" src='https://imgur.com/nwtdcFe.png'>
 </td>
 <td>
-<img aling=center width="30%" src='https://imgur.com/vPfv3oY.png'>
+<img align=center width="30%" src='https://imgur.com/vPfv3oY.png'>
 </td>
 </tr>
 <tr>
 <td>
-<img aling=center width="30%" src='https://imgur.com/XrRoqkP.png'>
+<img align=center width="30%" src='https://imgur.com/XrRoqkP.png'>
 </td>
 <td>
-<img aling=center width="30%" src='https://imgur.com/0feOeV7.png'>
+<img align=center width="30%" src='https://imgur.com/0feOeV7.png'>
 </td>
 </tr>
 <tr>
