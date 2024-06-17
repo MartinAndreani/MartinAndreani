@@ -18,15 +18,13 @@
 
 ## Proyectos
 <table>
-  <tr>
-    <td >
-      <br>
-      <h3 align="center">Curso HTML</h3>
-      <div align='center'>
-        <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img scr='https://imgur.com/04jJuRM.png' width='400' alt='Curso HTML'></a>
-        <br>
-        
-      </div>
-    
-  </tr>
+<tr>
+<td >
+<br>
+<h3 align="center">Curso HTML</h3>
+<div align='center'>
+<a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img scr='https://imgur.com/04jJuRM.png' width='400' alt='Curso HTML'></a>
+<br>
+</div>
+</td>
 </table>
