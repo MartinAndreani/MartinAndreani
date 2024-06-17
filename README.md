@@ -81,26 +81,37 @@
 <table align=center >
 <tr>
 <td>
-  <div align=center>
-<img align=center width="30%" src='https://imgur.com/nwtdcFe.png'>
-    
-  </div>
+<div >
+<img  width="30%" src='https://imgur.com/nwtdcFe.png'>
+</div>
 </td>
 <td>
+<div align=center>
 <img align=center width="30%" src='https://imgur.com/vPfv3oY.png'>
+
+</div>
 </td>
 </tr>
 <tr>
 <td>
-<img align=center width="30%" src='https://imgur.com/XrRoqkP.png'>
+<div align=cente>
+<img  width="30%" src='https://imgur.com/XrRoqkP.png'>
+</div>
+
 </td>
 <td>
-<img align=center width="30%" src='https://imgur.com/0feOeV7.png'>
+<div align=center>
+<img  width="30%" src='https://imgur.com/0feOeV7.png'>
+</div>
+
 </td>
 </tr>
 <tr>
 <td>
-<img aling=center width="30%" src='https://imgur.com/tK5FSRk.png'>
+<div align=center>
+<img  width="30%" src='https://imgur.com/tK5FSRk.png'>
+</div>
+
 
 </td>
 
