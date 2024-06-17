@@ -19,8 +19,9 @@
 ## Proyectos
 <div align='center' >
 <br>
-<h3 align="center"><a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'>Curso HTML</a></h3>
-<img src='https://imgur.com/04jJuRM.png'>
+<h3 align="center">Curso HTML</h3>
+<a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
+
 
 
 
