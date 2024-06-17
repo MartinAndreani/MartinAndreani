@@ -81,13 +81,13 @@
 <table align=center >
 <tr>
 <td>
-<div >
+<div align=center>
 <img  width="30%" src='https://imgur.com/nwtdcFe.png'>
 </div>
 </td>
 <td>
 <div align=center>
-<img align=center width="30%" src='https://imgur.com/vPfv3oY.png'>
+<img width="30%" src='https://imgur.com/vPfv3oY.png'>
 
 </div>
 </td>
