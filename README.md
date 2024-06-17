@@ -18,14 +18,15 @@
 
 ## Proyectos
 <table>
-<td>
 <tr>
+<td width="50%">
+
 <div align='center' >
 <br>
 <h3 align="center">Curso HTML</h3>
 <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
 <br>
 </div>
-</tr>
 </td>
+</tr>
 </table>
