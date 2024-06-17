@@ -19,8 +19,8 @@
 
 <div>
   <img width='20%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
-<img width='10%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
-<img width='20%' src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'
+<img width='13%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
+<img width='15%' src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'
 </div>
 
 
