@@ -78,26 +78,26 @@
 
 
 ## Certificados de Cursos
-<table aling=center>
+<table >
 <tr>
 <td>
-<img width="30%" src='https://imgur.com/nwtdcFe.png'>
+<img aling=center width="30%" src='https://imgur.com/nwtdcFe.png'>
 </td>
 <td>
-<img width="30%" src='https://imgur.com/vPfv3oY.png'>
+<img aling=center width="30%" src='https://imgur.com/vPfv3oY.png'>
 </td>
 </tr>
 <tr>
 <td>
-<img width="30%" src='https://imgur.com/XrRoqkP.png'>
+<img aling=center width="30%" src='https://imgur.com/XrRoqkP.png'>
 </td>
 <td>
-<img width="30%" src='https://imgur.com/0feOeV7.png'>
+<img aling=center width="30%" src='https://imgur.com/0feOeV7.png'>
 </td>
 </tr>
 <tr>
 <td>
-<img width="30%" src='https://imgur.com/tK5FSRk.png'>
+<img aling=center width="30%" src='https://imgur.com/tK5FSRk.png'>
 
 </td>
 
