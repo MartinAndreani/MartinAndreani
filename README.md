@@ -78,4 +78,8 @@
 
 
 ## Certificados de Cursos
-<img src=''>
+<img src='https://imgur.com/nwtdcFe.png'>
+<img src='https://imgur.com/vPfv3oY.png'>
+<img src='https://imgur.com/XrRoqkP.png'>
+<img src='https://imgur.com/0feOeV7.png'>
+<img src='https://imgur.com/tK5FSRk.png'>
