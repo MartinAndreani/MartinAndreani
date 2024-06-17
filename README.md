@@ -17,10 +17,10 @@
 
 
 ## Proyectos
-<div align='center' width="50%">
+<div align='center' >
 <br>
 <h3 align="center"><a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'>Curso HTML</a></h3>
-<img src='https://imgur.com/yrcWC3C.png'>
+<img src='https://imgur.com/04jJuRM.png'>
 
 
 
