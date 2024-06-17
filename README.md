@@ -94,7 +94,7 @@
 </tr>
 <tr>
 <td>
-<div align=cente>
+<div align=center>
 <img  width="30%" src='https://imgur.com/XrRoqkP.png'>
 </div>
 
