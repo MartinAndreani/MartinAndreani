@@ -32,7 +32,7 @@
 <td width="50%">
 <div align='center' >
 <br>
-<h3 align="center">Curso HTML</h3>
+<h3 align="center">Proyecto HTML Coderhouse</h3>
 <a  href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
 <br>
 </div>
@@ -41,7 +41,7 @@
 <td width="50%">
 <div align='center' >
 <br>
-<h3 align="center">Curso HTML</h3>
+<h3 align="center">Proyecto JS Coderhouse</h3>
 <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
 <br>
 </div>
@@ -52,7 +52,7 @@
 <td width="50%">
 <div align='center' >
 <br>
-<h3 align="center">Curso HTML</h3>
+<h3 align="center">Proyecto React Coderhouse</h3>
 <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
 <br>
 </div>
@@ -61,7 +61,7 @@
 <td width="50%">
 <div align='center' >
 <br>
-<h3 align="center">Curso HTML</h3>
+<h3 align="center">Proyecto Real - Casa Moderna</h3>
 <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
 <br>
 </div>
