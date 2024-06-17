@@ -18,8 +18,8 @@
 <h2>Tecnologias</h2>
 
 <div>
-  <img width='30%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
-<img width='20%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
+  <img width='25%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
+<img width='15%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
 
 </div>
 
