@@ -21,7 +21,7 @@
 <br>
 <h3 align="center">Curso HTML</h3>
 <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'></a>
-<img scr='<blockquote class="imgur-embed-pub" lang="en" data-id="a/4PoEsTj"><a href="//imgur.com/4PoEsTj">Groove Music</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> width='400' alt='Curso HTML'>
+<img scr="https://imgur.com/a/4PoEsTj" width='400' alt='Curso HTML'>
 <br>
 </div>
 
