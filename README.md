@@ -21,7 +21,7 @@
 <br>
 <h3 align="center">Curso HTML</h3>
 <a href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'></a>
-<img scr="https://imgur.com/a/4PoEsTj.jpg"  alt='Curso HTML'>
+
 <br>
 </div>
 
