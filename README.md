@@ -7,6 +7,6 @@
 
 ## Sobre Mi
 
-- Estudiante de Ingenieria en Sistemas en UTN FRC
+- Estudiante de Ingenieria en Sistemas en Universidad Tecnologica Nacional Facultad Regional Cordoba
 - Front End Devoloper
 -
