@@ -78,7 +78,7 @@
 
 
 ## Certificados de Cursos
-<table>
+<table aling=center>
 <tr>
 <td>
 <img width="30%" src='https://imgur.com/nwtdcFe.png'>
