@@ -1,7 +1,7 @@
 <div align='center'>
 <h1 align= 'center' >Hola! Soy <a href="https://imgur.com/tfZ6OuM">Martin Andreani👋</a></h1>
 </div>
-<img src='https://imgur.com/yrcWC3C.png'>
+<img src='https://imgur.com/a/NCdT9oC'>
 
 
 <a href='https://github.com/MartinAndreani' ><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
