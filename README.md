@@ -1,126 +1,67 @@
-<div align='center'>
-<h1 align= 'center' >Hola! Soy <a href="https://imgur.com/tfZ6OuM">Martin Andreani👋</a></h1>
-</div>
-<img src='https://imgur.com/I51MsUg'>
+<div align="center">
 
+# Hola, soy Martín Andreani 👋
 
-<a href='https://github.com/MartinAndreani' ><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
-<a href='https://www.linkedin.com/in/martin-andreani-developer/' ><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' ></a>
-<a href='https://www.instagram.com/tincho_andreani/' ><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' ></a>
-<a href='https://api.whatsapp.com/send?phone=3517409423' ><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' ></a>
-<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNvvWSBGqJMPxkPCkLkGTrGgHXNHnxNSdjGmNnrwRqVkwkzkSvDktMXchhKRjGRkggXWpL' ><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' ></a>
+### Full Stack Developer · Foco en backend
 
-## Sobre Mi
+**Python · FastAPI · PostgreSQL · Microservicios**
 
-- 🎓 Estudiante de Ingenieria en Sistemas en UTN FRC
-- 💻 Front End Devoloper
+Córdoba, Argentina · Estudiante de Ingeniería en Sistemas de Información, UTN FRC
 
-<h2>Tecnologias</h2>
-
-<div>
-  <img width='15%' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png'>
-<img width='9%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'>
-<img width='16%'  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgruNPSb_iTGjSZz4H4nefTFfLkNxNJ5nvWQ&s' >
-<img width='14%'  src='https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png'>
-<img width='18%' src='https://miro.medium.com/v2/resize:fit:1100/1*f2i47G95nVCx71KzM1iXlg.png'>
-<img width='16%' src='https://www.acceseo.com/wp-content/uploads/2017/04/sass_header.jpg'>
-<img width='16%' src='https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png'>
-<img width='16%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png'>
-<img width='16%' src='https://cdn.hashnode.com/res/hashnode/image/upload/v1636780048014/niLN2J80j.png'>
-
-
-  
-</div>
-
-
-## Proyectos
-<table>
-<tr>
-<td width="50%">
-<div align='center' >
-<br>
-<h3 align="center">Proyecto HTML Coderhouse</h3>
-<a  href='https://martinandreani.github.io/proyectocoder-html-andreani/' target='_blank'><img src='https://imgur.com/04jJuRM.png'></a>
-<a href='https://github.com/MartinAndreani/proyectocoder-html-andreani' ><img src='https://img.shields.io/badge/GitHub Repositorio-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
-<br>
-</div>
-</td>
-
-<td width="50%">
-<div align='center' >
-<br>
-<h3 align="center">Proyecto JS Coderhouse</h3>
-<a href='https://proyectocoder-js-andreani.onrender.com/' target='_blank'><img src='https://imgur.com/xBfWe6V.png'></a>
-
-<a href='https://github.com/MartinAndreani/proyectocoder-js-andreani' ><img src='https://img.shields.io/badge/GitHub Repositorio-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
-<br>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<div align='center' >
-<br>
-<h3 align="center">Proyecto React Coderhouse</h3>
-<a href='https://proyectocoder-react-andreani.onrender.com/' target='_blank'><img src='https://imgur.com/v1q9DKJ.png'></a>
-<a href='https://github.com/MartinAndreani/proyectocoder-react-andreani' ><img src='https://img.shields.io/badge/GitHub Repositorio-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
-<br>
-</div>
-</td>
-
-<td width="50%">
-<div align='center' >
-<br>
-<h3 align="center">Proyecto Real - Casa Moderna</h3>
-<a href='https://casamoderna.onrender.com/' target='_blank'><img src='https://imgur.com/uY8lwfH.png'></a>
-<a href='https://github.com/MartinAndreani/casa-moderna-proyecto-real' ><img src='https://img.shields.io/badge/GitHub Repositorio-100000?style=for-the-badge&logo=github&logoColor=white' ></a>
-<br>
-</div>
-</td>
-</tr>
-
-</table>
-
-
-## Certificados de Cursos
-<table align=center >
-<tr>
-<td>
-<div align=center>
-<img  width="50%" src='https://imgur.com/nwtdcFe.png'>
-</div>
-</td>
-<td>
-<div align=center>
-<img width="50%" src='https://imgur.com/vPfv3oY.png'>
+[LinkedIn](https://www.linkedin.com/in/martin-andreani-developer/) · [Repositorios](https://github.com/MartinAndreani?tab=repositories)
 
 </div>
-</td>
-</tr>
-<tr>
-<td>
-<div align=center>
-<img  width="50%" src='https://imgur.com/XrRoqkP.png'>
-</div>
 
-</td>
-<td>
-<div align=center>
-<img  width="50%" src='https://imgur.com/0feOeV7.png'>
-</div>
+---
 
-</td>
-</tr>
-<tr>
-<td>
-<div align=center>
-<img  width="50%" src='https://imgur.com/tK5FSRk.png'>
-</div>
+## Sobre mí
 
+Soy desarrollador Full Stack con **2 años de experiencia** en sistemas de gestión para la **Municipalidad de Córdoba**. Mi foco está en construir APIs REST, implementar lógica de negocio y diseñar bases de datos con Python, FastAPI y PostgreSQL.
 
-</td>
+Participo en el desarrollo de soluciones desde el modelo entidad-relación y la definición de arquitectura hasta la implementación de servicios e interfaces. Trabajo con autenticación JWT, permisos por roles e integraciones entre microservicios y sistemas municipales.
 
-</tr>
-  
-</table>
+En frontend desarrollo con **Quasar/Vue.js** y también tengo experiencia con **React y Next.js**.
+
+## Experiencia profesional
+
+**Desarrollador Full Stack · Municipalidad de Córdoba**  
+Secretaría de Ciudad Inteligente y Transformación Digital · Agosto de 2024 – Actualidad
+
+- Participación en el diseño e implementación de **dos sistemas de gestión**, desde el modelo de datos y la arquitectura hasta su desarrollo.
+- Desarrollo de APIs REST y servicios con **FastAPI, SQLAlchemy y PostgreSQL**, incluyendo una solución en producción.
+- Implementación de autenticación **JWT**, validación de permisos por roles e integraciones entre servicios.
+- Desarrollo de lógica de negocio y funciones **PL/pgSQL** para trámites, documentos, estados y relaciones entre usuarios y áreas.
+- Construcción de interfaces con **Quasar/Vue.js** y uso de **Docker** para ejecutar servicios en entornos consistentes.
+- Trabajo en equipo con **Kanban y Jira**.
+
+## Stack técnico
+
+| Área | Tecnologías |
+| --- | --- |
+| Backend | Python, FastAPI, SQLAlchemy, Alembic, APIs REST, JWT |
+| Arquitectura e integraciones | Microservicios, autenticación y autorización por roles |
+| Bases de datos | PostgreSQL, SQL, PL/pgSQL, modelado entidad-relación |
+| Frontend | JavaScript, Quasar, Vue.js, React, Next.js, HTML, CSS/SASS |
+| Herramientas | Docker, Git, Jira, Node.js |
+| Experiencia adicional | PHP, Laravel, jQuery |
+| Formación y proyectos | Django · Programación con Java |
+
+## Proyectos públicos
+
+Una selección de mis proyectos web y trabajos de formación:
+
+- [Portfolio](https://github.com/MartinAndreani/portfolio)
+- [Casa Moderna · Proyecto real](https://github.com/MartinAndreani/casa-moderna-proyecto-real)
+- [Proyecto React · Coderhouse](https://github.com/MartinAndreani/proyectocoder-react-andreani)
+- [Proyecto JavaScript · Coderhouse](https://github.com/MartinAndreani/proyectocoder-js-andreani)
+
+## Formación
+
+- **Ingeniería en Sistemas de Información** · UTN FRC · 2021 – En curso.
+- **Carrera Front End (React.js)** · Coderhouse · 2023.
+- **Programación con Java** · Coderhouse · 2024 · 32 horas.
+- **Django: Desarrollo de Aplicaciones Escalables** · UTN FRBA · 2021 · 60 horas · Calificación: Sobresaliente.
+
+---
+
+**¿Hablamos?** Podés contactarme por [LinkedIn](https://www.linkedin.com/in/martin-andreani-developer/).
