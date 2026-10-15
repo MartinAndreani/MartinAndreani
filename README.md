@@ -42,9 +42,9 @@ Secretaría de Ciudad Inteligente y Transformación Digital · Agosto de 2024 �
 | Arquitectura e integraciones | Microservicios, autenticación y autorización por roles |
 | Bases de datos | PostgreSQL, SQL, PL/pgSQL, modelado entidad-relación |
 | Frontend | JavaScript, Quasar, Vue.js, React, Next.js, HTML, CSS/SASS |
-| Herramientas | Docker, Git, Jira, Node.js |
+| Herramientas | Docker, Git, Jira |
 | Experiencia adicional | PHP, Laravel, jQuery |
-| Formación y proyectos | Django · Programación con Java |
+| Formación y proyectos | Django · Programación con Java, Spring Boot|
 
 ## Proyectos públicos
 
